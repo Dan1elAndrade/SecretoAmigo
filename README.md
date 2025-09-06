@@ -25,9 +25,9 @@ Como usar
 Estrutura do projeto
 
 /amigo-secreto
-│
-├─ index.html - Estrutura da página
-├─ style.css - Estilos visuais
-├─ app.js - Lógica do sorteador
-└─ assets/ - Imagens usadas
+
+─ index.html - Estrutura da página
+─ style.css - Estilos visuais
+─ app.js - Lógica do sorteador
+─ assets/ - Imagens usadas
 
